@@ -67,7 +67,7 @@ a {
 
     width: 100vw;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: start;
     flex-direction: row;
     
