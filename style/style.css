@@ -64,11 +64,11 @@ a {
     color: gold;
 }
 #rangement{
-    position: relative;
+    position: start;
 
     width: 100vw;
     display: flex;
-    justify-content: space-between;
+    justify-content: row;
     align-items: start;
     flex-direction: row;
     
