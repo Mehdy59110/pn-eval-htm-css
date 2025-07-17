@@ -40,6 +40,9 @@ nav{
 
 #photo1{
   width: 30vw;
+  margin-top: 1.5px;
+  float: right;
+  margin: right 2px;
 }
 article{
     box-shadow: 2px 2px 5px O;
@@ -50,18 +53,39 @@ article{
 
 #photo2{
     width: 30vw;
+    margin-top: 1.5px;
+  float: right;
+  margin: right 2px;
 }
+
 a {
     text-decoration: none;
     color: gold;
 }
 #rangement{
     position: relative;
-    top: 10vmin;
+
     width: 100vw;
     display: flex;
     justify-content: center;
     align-items: start;
     flex-direction: row;
-    padding: 20px;
+    
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+.grand-lille{
+    display: flex;
+    flex-direction: right;
+    justify-content: right;
+    align-items: right;
+}
+.grand-lille2{
+    display: flex;
+    flex-direction: right;
+    justify-content: right;
+    align-items: right;
+    
 }
