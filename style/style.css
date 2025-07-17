@@ -39,7 +39,7 @@ nav{
 }
 
 #photo1{
-    box-shadow: 2px 2px 5px 0;
+   
   width: 30vw;
   margin-top: 1.5px;
   float: right;
@@ -53,6 +53,7 @@ article{
 }
 
 #photo2{
+   
     width: 30vw;
     margin-top: 1.5px;
   float: right;
