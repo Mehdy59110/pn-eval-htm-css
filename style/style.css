@@ -43,11 +43,13 @@ color: gold;
         box-shadow: 5px 5px 15px 0px;
     }
 #photo1{
-    max-width:20vw;
+    width: 25vw;
     margin-top: 1,5px;
     float: right;
     margin: right 2px;
     margin-left: 5vh;
+    padding-top: 90px;
+    
 }
 article{
     display: flex;
@@ -66,6 +68,7 @@ article{
     float: right;
     margin: right 10px;
     margin-left: 10px;
+    padding-right: 30px;
 }
 
 h2{
@@ -104,6 +107,7 @@ h1{
     display: flex;
     flex-direction: center;
     color: #D18A39 ;
+    padding-left: 30%;
 }
 
 p{
@@ -118,3 +122,8 @@ p{
 a{
     text-decoration: none;
 }
+@font-face {
+    font-family: "police";
+    src: url("eval1.otf");
+}
+
