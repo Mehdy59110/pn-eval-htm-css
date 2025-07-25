@@ -1,4 +1,11 @@
+@font-face {
+    font-family: "police";
+    src: url("eval1.otf");
+}
+
+
 *{
+
     margin : 0;
     padding : 0;
     box-sizing: border-box;
@@ -30,10 +37,10 @@
         height: 50vh;
     }
 
-.nav-button {
-font-size: 1,5rem;
-color: gold;
-
+    .nav-button {
+        font-size: 1,5rem;
+        color: gold;
+        border-radius: 10px;
     }
 
     .nav-button:hover{
@@ -41,6 +48,7 @@ color: gold;
         color: gold;
         border: solid color();
         box-shadow: 5px 5px 15px 0px;
+        
     }
 #photo1{
     width: 25vw;
@@ -122,8 +130,5 @@ p{
 a{
     text-decoration: none;
 }
-@font-face {
-    font-family: "police";
-    src: url("eval1.otf");
-}
+
 
