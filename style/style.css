@@ -24,7 +24,7 @@
         padding: 5%;
         background-color: black;
         height: 100vh;
-        width: 30%;
+        width: 50%;
 
     }
 
@@ -41,13 +41,14 @@
         font-size: 1,5rem;
         color: gold;
         border-radius: 10px;
+        width: 50%;
     }
 
     .nav-button:hover{
         background-color: black ;
         color: gold;
         border: solid color();
-        box-shadow: 5px 5px 15px 0px;
+        box-shadow: 5px 5px 10px 0px;
         
     }
 #photo1{
